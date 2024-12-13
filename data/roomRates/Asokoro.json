@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "63480228e6782d28efc826e0"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fdede6782d28efc82621"
+  },
+  "roomTypeId": {
+    "$oid": "6347ff7fe6782d28efc8266f"
+  },
+  "roomNumber": 101,
+  "rate": 87500,
+  "roomRateId": "00001",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:18:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-30T13:36:17.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-10T00:00:00.000Z"
+  },
+  "outOfOrderReason": "None"
+},
+{
+  "_id": {
+    "$oid": "6348029ae6782d28efc82710"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fdede6782d28efc82621"
+  },
+  "roomTypeId": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "roomNumber": 102,
+  "rate": 102500,
+  "roomRateId": "00002",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:20:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-30T07:25:37.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-28T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "634802d7e6782d28efc82743"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fdede6782d28efc82621"
+  },
+  "roomTypeId": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "roomNumber": 103,
+  "rate": 102500,
+  "roomRateId": "00003",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:21:43.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-06-26T13:35:59.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-28T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "634802f0e6782d28efc8277b"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fe49e6782d28efc8264b"
+  },
+  "roomTypeId": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "roomNumber": 104,
+  "rate": 102500,
+  "roomRateId": "00004",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:22:08.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-26T06:14:42.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63480333e6782d28efc827b6"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fe49e6782d28efc8264b"
+  },
+  "roomTypeId": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "roomNumber": 105,
+  "rate": 102500,
+  "roomRateId": "00005",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:23:15.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T16:24:00.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63480376e6782d28efc827f6"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fe49e6782d28efc8264b"
+  },
+  "roomTypeId": {
+    "$oid": "6347ff7fe6782d28efc8266f"
+  },
+  "roomNumber": 106,
+  "rate": 87500,
+  "roomRateId": "00006",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:24:22.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-03T06:13:18.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-11T14:45:34.000Z"
+  },
+  "outOfOrderReason": "upgrade"
+},
+{
+  "_id": {
+    "$oid": "6348048fe6782d28efc8283b"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fe49e6782d28efc8264b"
+  },
+  "roomTypeId": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "roomNumber": 107,
+  "rate": 102500,
+  "roomRateId": "00007",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:29:03.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-13T07:43:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-28T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "634804c4e6782d28efc82882"
+  },
+  "doubleRate": null,
+  "breakfast": 7000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6347fe49e6782d28efc8264b"
+  },
+  "roomTypeId": {
+    "$oid": "6347ffcce6782d28efc8268a"
+  },
+  "roomNumber": 108,
+  "rate": 142500,
+  "roomRateId": "00008",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateCreated": {
+    "$date": "2022-10-13T12:29:56.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-26T06:16:08.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+}]

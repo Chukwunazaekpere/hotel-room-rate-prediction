@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6347ff7fe6782d28efc8266f"
+  },
+  "rooms": [
+    {
+      "$oid": "63480228e6782d28efc826e0"
+    },
+    {
+      "$oid": "63480376e6782d28efc827f6"
+    }
+  ],
+  "roomTypeName": "DELUXE",
+  "roomTypeRate": 87500,
+  "roomTypeDoubleRate": null,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00001",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateUpdated": {
+    "$date": "2024-05-20T12:53:30.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-10-13T13:07:27.000Z"
+  },
+  "__v": 2,
+  "breakfast": 7500,
+  "stayDates": [
+    {
+      "668ededcf08d486a6675c4b1": [
+        "Wed Jul 10 2024",
+        "Thu Jul 11 2024"
+      ]
+    },
+    {
+      "6695794975a34da02ef0a37b": [
+        "Mon Jul 15 2024"
+      ]
+    },
+    {
+      "66b600dbd057bfdc69920ddc": [
+        "Fri Aug 09 2024",
+        "Sat Aug 10 2024"
+      ]
+    },
+    {
+      "66c63e1ad057bfdc6995bad3": [
+        "Wed Aug 21 2024"
+      ]
+    },
+    {
+      "66d751ecd057bfdc6999bac9": [
+        "Tue Sep 03 2024",
+        "Wed Sep 04 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6347ffcce6782d28efc8268a"
+  },
+  "rooms": [
+    {
+      "$oid": "634804c4e6782d28efc82882"
+    }
+  ],
+  "roomTypeName": "SUITE",
+  "roomTypeRate": 142500,
+  "roomTypeDoubleRate": null,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00002",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateUpdated": {
+    "$date": "2024-05-20T12:49:43.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-10-13T13:08:44.000Z"
+  },
+  "__v": 1,
+  "breakfast": 7500,
+  "stayDates": [
+    {
+      "66a1078475a34da02ef348aa": [
+        "Wed Jul 24 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63480013e6782d28efc826a4"
+  },
+  "rooms": [
+    {
+      "$oid": "6348029ae6782d28efc82710"
+    },
+    {
+      "$oid": "634802d7e6782d28efc82743"
+    },
+    {
+      "$oid": "634802f0e6782d28efc8277b"
+    },
+    {
+      "$oid": "63480333e6782d28efc827b6"
+    },
+    {
+      "$oid": "6348048fe6782d28efc8283b"
+    }
+  ],
+  "roomTypeName": "SUPERIOR",
+  "roomTypeRate": 102500,
+  "roomTypeDoubleRate": null,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00003",
+  "createdBy": "Bon Hotel Asokoro Resisdence",
+  "dateUpdated": {
+    "$date": "2024-05-20T12:45:41.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-10-13T13:09:55.000Z"
+  },
+  "__v": 5,
+  "breakfast": 7500,
+  "stayDates": [
+    {
+      "66880f46f3020d7571eaf342": [
+        "Fri Jul 05 2024",
+        "Sat Jul 06 2024"
+      ]
+    },
+    {
+      "669bb3d275a34da02ef20c92": [
+        "Mon Jul 22 2024",
+        "Tue Jul 23 2024"
+      ]
+    },
+    {
+      "66a65c2475a34da02ef47b4f": [
+        "Sun Jul 28 2024"
+      ]
+    },
+    {
+      "66d8899cd057bfdc699a03ee": [
+        "Wed Sep 04 2024"
+      ]
+    }
+  ]
+}]

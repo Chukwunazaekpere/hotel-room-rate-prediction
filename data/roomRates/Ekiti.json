@@ -1,0 +1,1857 @@
+[{
+  "_id": {
+    "$oid": "62c43ab95ebc758969c87229"
+  },
+  "doubleRate": 3000,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 101,
+  "rate": 42000,
+  "roomRateId": "00001",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:20:57.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-09T16:00:09.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62c43aeb5ebc758969c87258"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 102,
+  "rate": 47000,
+  "roomRateId": "00002",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:21:47.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-03T09:11:57.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62c43b145ebc758969c8728b"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 103,
+  "rate": 47000,
+  "roomRateId": "00003",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:22:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-30T06:33:05.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62c43b2d5ebc758969c872c2"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 104,
+  "rate": 47000,
+  "roomRateId": "00004",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:22:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-01T08:12:30.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62c43b445ebc758969c872fd"
+  },
+  "doubleRate": 0,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "6628d91459a8c3f36d2a3940"
+  },
+  "roomNumber": "105",
+  "rate": 42000,
+  "roomRateId": "00005",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:23:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-04-24T14:30:45.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43b875ebc758969c8733c"
+  },
+  "doubleRate": 0,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "6628d91459a8c3f36d2a3940"
+  },
+  "roomNumber": "106",
+  "rate": 32000,
+  "roomRateId": "00006",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:24:23.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-05-04T09:59:31.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43ba05ebc758969c8737f"
+  },
+  "doubleRate": 0,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "6628d91459a8c3f36d2a3940"
+  },
+  "roomNumber": "107",
+  "rate": 42000,
+  "roomRateId": "00007",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:24:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-01T03:40:51.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "62c43bbb5ebc758969c873c6"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 108,
+  "rate": 47000,
+  "roomRateId": "00008",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:25:15.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T10:20:46.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE",
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62c43be05ebc758969c87411"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 109,
+  "rate": 41500,
+  "roomRateId": "00009",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:25:52.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-24T10:30:15.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43c045ebc758969c87460"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 110,
+  "rate": 47000,
+  "roomRateId": "00010",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:26:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T10:47:51.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "62c43c1b5ebc758969c874b3"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 201,
+  "rate": 47000,
+  "roomRateId": "00011",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:26:51.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-26T11:22:56.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43c585ebc758969c8750a"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 202,
+  "rate": 47000,
+  "roomRateId": "00012",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:27:52.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-23T14:04:49.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43c6d5ebc758969c87565"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 203,
+  "rate": 47000,
+  "roomRateId": "00013",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:28:13.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-18T12:00:45.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43c9f5ebc758969c875c4"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 204,
+  "rate": 47000,
+  "roomRateId": "00014",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:29:03.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-23T10:23:29.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43cf05ebc758969c87627"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 205,
+  "rate": 47000,
+  "roomRateId": "00015",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:30:24.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-17T09:01:30.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43d155ebc758969c8768e"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 206,
+  "rate": 47000,
+  "roomRateId": "00016",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:31:01.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T11:03:49.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43d2a5ebc758969c876f9"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": "207",
+  "rate": 47000,
+  "roomRateId": "00017",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:31:22.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T10:43:48.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43d4e5ebc758969c87768"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 208,
+  "rate": 47000,
+  "roomRateId": "00018",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:31:58.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-27T11:17:28.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43d715ebc758969c877db"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 211,
+  "rate": 47000,
+  "roomRateId": "00019",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:32:33.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T10:23:14.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43d8a5ebc758969c87852"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 212,
+  "rate": 47000,
+  "roomRateId": "00020",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:32:58.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T10:59:25.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c43db05ebc758969c878cd"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 301,
+  "rate": 47000,
+  "roomRateId": "00021",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T13:33:36.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T12:03:58.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c446e55ebc758969c8794c"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 302,
+  "rate": 47000,
+  "roomRateId": "00022",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:12:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T10:14:58.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c447065ebc758969c879cf"
+  },
+  "doubleRate": 3000,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 303,
+  "rate": 42000,
+  "roomRateId": "00023",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:13:26.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-03T04:05:59.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c4471d5ebc758969c87a56"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 304,
+  "rate": 47000,
+  "roomRateId": "00024",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:13:49.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T09:35:46.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c4473a5ebc758969c87ae1"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 306,
+  "rate": 47000,
+  "roomRateId": "00025",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:14:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-10T12:13:42.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c447ab5ebc758969c87b70"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 307,
+  "rate": 47000,
+  "roomRateId": "00026",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:16:11.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-22T10:53:21.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c447c85ebc758969c87c03"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 313,
+  "rate": 47000,
+  "roomRateId": "00027",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:16:40.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-05T08:15:26.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c449b55ebc758969c87c9a"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 314,
+  "rate": 47000,
+  "roomRateId": "00028",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:24:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-05T07:11:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c449f65ebc758969c87d35"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 315,
+  "rate": 47000,
+  "roomRateId": "00029",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:25:58.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-05T07:10:36.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44a0a5ebc758969c87dd4"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 316,
+  "rate": 47000,
+  "roomRateId": "00030",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:26:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T09:36:44.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44a265ebc758969c87e77"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 318,
+  "rate": 47000,
+  "roomRateId": "00031",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:26:46.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T11:14:21.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44b515ebc758969c87f1e"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 319,
+  "rate": 47000,
+  "roomRateId": "00032",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:31:45.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-23T15:13:47.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44b7c5ebc758969c87fc9"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 401,
+  "rate": 47000,
+  "roomRateId": "00033",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:32:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T10:18:50.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44bc05ebc758969c88078"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 402,
+  "rate": 47000,
+  "roomRateId": "00034",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:33:36.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T10:17:38.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c44be55ebc758969c8812b"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 403,
+  "rate": 47000,
+  "roomRateId": "00035",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:34:13.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-31T09:23:05.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "A/C fault"
+},
+{
+  "_id": {
+    "$oid": "62c44c205ebc758969c881e2"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 404,
+  "rate": 41500,
+  "roomRateId": "00036",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:35:12.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T10:20:21.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c4519a5ebc758969c8829d"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 406,
+  "rate": 47000,
+  "roomRateId": "00037",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:58:34.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-28T11:13:05.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c451d45ebc758969c8835c"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 412,
+  "rate": 47000,
+  "roomRateId": "00038",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T14:59:32.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-03T11:41:57.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "Plumbing faults"
+},
+{
+  "_id": {
+    "$oid": "62c451f15ebc758969c8841f"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 413,
+  "rate": 47000,
+  "roomRateId": "00039",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T15:00:01.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-24T07:34:50.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c4521a5ebc758969c884e6"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 414,
+  "rate": 47000,
+  "roomRateId": "00040",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T15:00:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-24T07:29:44.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c452455ebc758969c885b1"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 415,
+  "rate": 41500,
+  "roomRateId": "00041",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T15:01:25.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T08:51:49.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c4526b5ebc758969c88680"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 417,
+  "rate": 47000,
+  "roomRateId": "00042",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-05T15:02:03.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-17T11:25:52.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699175ebc758969c887f4"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 210,
+  "rate": 57000,
+  "roomRateId": "00043",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:28:07.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-16T15:40:52.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699395ebc758969c888cb"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 305,
+  "rate": 57000,
+  "roomRateId": "00044",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:28:41.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T03:32:05.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6994f5ebc758969c889a6"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 308,
+  "rate": 57000,
+  "roomRateId": "00045",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:29:03.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-02T10:22:15.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699675ebc758969c88a85"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 317,
+  "rate": 57000,
+  "roomRateId": "00046",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:29:27.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T11:12:37.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699815ebc758969c88b68"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 320,
+  "rate": 57000,
+  "roomRateId": "00047",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:29:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T09:38:52.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699a25ebc758969c88c4f"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 405,
+  "rate": 57000,
+  "roomRateId": "00048",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:30:26.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-17T11:54:17.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699bb5ebc758969c88d3a"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dac55ebc758969c87072"
+  },
+  "roomNumber": 416,
+  "rate": 57000,
+  "roomRateId": "00049",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:30:51.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-27T11:18:08.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c699d95ebc758969c88e29"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68ec0d01d80ed7e92ec8"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 209,
+  "rate": 77000,
+  "roomRateId": "00050",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T08:31:21.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-08T13:57:18.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a3c15ebc758969c890f6"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 309,
+  "rate": 77000,
+  "roomRateId": "00051",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:13:37.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-30T08:39:54.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a3e55ebc758969c891ed"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 310,
+  "rate": 77000,
+  "roomRateId": "00052",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:14:13.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-09T10:59:37.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a4535ebc758969c892e8"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 311,
+  "rate": 77000,
+  "roomRateId": "00053",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:16:03.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-27T11:24:53.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a4865ebc758969c893e7"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 408,
+  "rate": 77000,
+  "roomRateId": "00054",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:16:54.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-21T11:39:45.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a49e5ebc758969c894ea"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 409,
+  "rate": 77000,
+  "roomRateId": "00055",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:17:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-13T10:30:47.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a4bc5ebc758969c895f1"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 410,
+  "rate": 77000,
+  "roomRateId": "00056",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:17:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-21T08:07:30.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a4df5ebc758969c896fc"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 411,
+  "rate": 77000,
+  "roomRateId": "00057",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:18:23.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-18T11:38:22.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a7825ebc758969c8980b"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dbb55ebc758969c870a6"
+  },
+  "roomNumber": 407,
+  "rate": 192000,
+  "roomRateId": "00058",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:29:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-01T16:20:28.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "62c6a7a35ebc758969c8991e"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2dbb55ebc758969c870a6"
+  },
+  "roomNumber": 418,
+  "rate": 192000,
+  "roomRateId": "00059",
+  "createdBy": "ChannelPro Limited",
+  "dateCreated": {
+    "$date": "2022-07-07T09:30:11.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-21T11:29:20.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "648742325b75b975303b1b81"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "outOfOrderReason": "NONE",
+  "roomFloorId": {
+    "$oid": "62bc68fe0d01d80ed7e92ee1"
+  },
+  "roomTypeId": {
+    "$oid": "62c2db875ebc758969c8708c"
+  },
+  "roomNumber": 312,
+  "rate": 77000,
+  "roomRateId": "00060",
+  "createdBy": "BON HOTEL EKITI",
+  "dateCreated": {
+    "$date": "2023-06-12T17:05:06.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-04T03:32:05.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a98d699e922d221d3987e0"
+  },
+  "doubleRate": null,
+  "breakfast": 3000,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "outOfOrderReason": "NONE",
+  "roomFloorId": {
+    "$oid": "62bc68d60d01d80ed7e92eaf"
+  },
+  "roomTypeId": {
+    "$oid": "64a98c749e922d221d39866c"
+  },
+  "roomNumber": 500,
+  "rate": 400000,
+  "roomRateId": "00061",
+  "createdBy": "Daniel Stephen",
+  "dateCreated": {
+    "$date": "2023-07-08T17:23:05.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-08T13:55:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65310d27f9a453c283d11974"
+  },
+  "doubleRate": null,
+  "breakfast": 2,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "outOfOrderReason": "NONE",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 407.02,
+  "rate": 47000,
+  "roomRateId": "00062",
+  "createdBy": "Dimkpa Tessy",
+  "dateCreated": {
+    "$date": "2023-10-19T11:04:07.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-08-03T09:13:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65310d53f9a453c283d119a4"
+  },
+  "doubleRate": null,
+  "breakfast": 2,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "outOfOrderReason": "NONE",
+  "roomFloorId": {
+    "$oid": "62bc690c0d01d80ed7e92efa"
+  },
+  "roomTypeId": {
+    "$oid": "62c2da875ebc758969c87058"
+  },
+  "roomNumber": 418.02,
+  "rate": 47000,
+  "roomRateId": "00063",
+  "createdBy": "Dimkpa Tessy",
+  "dateCreated": {
+    "$date": "2023-10-19T11:04:51.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-07-08T13:58:09.000Z"
+  },
+  "__v": 0
+}]

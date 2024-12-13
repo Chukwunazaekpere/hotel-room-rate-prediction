@@ -1,0 +1,3087 @@
+[{
+  "_id": {
+    "$oid": "6364d920c1ddba9abe9951bb"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 201,
+  "rate": 45500,
+  "roomRateId": "00001",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:19:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-25T20:05:33.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364d98ec1ddba9abe995252"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 203,
+  "rate": 45500,
+  "roomRateId": "00003",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:21:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364d9a6c1ddba9abe995289"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 204,
+  "rate": 45500,
+  "roomRateId": "00004",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:21:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364d9e0c1ddba9abe9952c5"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 205,
+  "rate": 45500,
+  "roomRateId": "00005",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:22:40.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "Heater"
+},
+{
+  "_id": {
+    "$oid": "6364da07c1ddba9abe995304"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 206,
+  "rate": 45500,
+  "roomRateId": "00006",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:23:19.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364da22c1ddba9abe995347"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 207,
+  "rate": 45500,
+  "roomRateId": "00007",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:23:46.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364da39c1ddba9abe99538f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 208,
+  "rate": 45500,
+  "roomRateId": "00008",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:24:09.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364da50c1ddba9abe9953da"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 209,
+  "rate": 45500,
+  "roomRateId": "00009",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:24:32.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364da7cc1ddba9abe995429"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 210,
+  "rate": 39500,
+  "roomRateId": "00010",
+  "createdBy": "Chukwunazaekpere Obioma",
+  "dateCreated": {
+    "$date": "2022-11-04T09:25:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364dadbc1ddba9abe9954d4"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 212,
+  "rate": 39500,
+  "roomRateId": "00012",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:26:51.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-20T04:34:52.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "6364daffc1ddba9abe99552f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb45c1ddba9abe994eb8"
+  },
+  "roomNumber": 213,
+  "rate": 76500,
+  "roomRateId": "00013",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:27:27.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364db1cc1ddba9abe99558e"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 214,
+  "rate": 45500,
+  "roomRateId": "00014",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:27:56.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "6364dc55c1ddba9abe995668"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364dbd2c1ddba9abe9955f8"
+  },
+  "roomNumber": 215,
+  "rate": 106000,
+  "roomRateId": "00015",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:33:09.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-17T21:15:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364dca8c1ddba9abe9956d0"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 216,
+  "rate": 45500,
+  "roomRateId": "00016",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:34:32.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "A/C fault"
+},
+{
+  "_id": {
+    "$oid": "6364dccec1ddba9abe99573b"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 217,
+  "rate": 45500,
+  "roomRateId": "00017",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:35:10.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "Furnitures"
+},
+{
+  "_id": {
+    "$oid": "6364dcedc1ddba9abe9957aa"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 218,
+  "rate": 45500,
+  "roomRateId": "00018",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:35:41.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364dd26c1ddba9abe99588b"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 219,
+  "rate": 45500,
+  "roomRateId": "00019",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:36:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "A/C fault"
+},
+{
+  "_id": {
+    "$oid": "6364dd49c1ddba9abe995902"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 220,
+  "rate": 45500,
+  "roomRateId": "00020",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:37:13.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364dd66c1ddba9abe99597d"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 221,
+  "rate": 45500,
+  "roomRateId": "00021",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:37:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "6364ddbbc1ddba9abe9959fd"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 222,
+  "rate": 45500,
+  "roomRateId": "00022",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:39:07.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364de01c1ddba9abe995a81"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 223,
+  "rate": 45500,
+  "roomRateId": "00023",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:40:17.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T11:18:55.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "6364de93c1ddba9abe995b09"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 301,
+  "rate": 45500,
+  "roomRateId": "00024",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:42:43.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364dec0c1ddba9abe995b94"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 302,
+  "rate": 45500,
+  "roomRateId": "00025",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:43:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364def2c1ddba9abe995c24"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 303,
+  "rate": 45500,
+  "roomRateId": "00026",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:44:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364df1ac1ddba9abe995cb7"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 304,
+  "rate": 45500,
+  "roomRateId": "00027",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:44:58.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364df6fc1ddba9abe995d4f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 305,
+  "rate": 45500,
+  "roomRateId": "00028",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:46:23.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364df92c1ddba9abe995dea"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 306,
+  "rate": 45500,
+  "roomRateId": "00029",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:46:58.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364dfbac1ddba9abe995e89"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 307,
+  "rate": 45500,
+  "roomRateId": "00030",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:47:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "6364dfdcc1ddba9abe995f2d"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 308,
+  "rate": 45500,
+  "roomRateId": "00031",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:48:12.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364dff7c1ddba9abe995fd4"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 309,
+  "rate": 45500,
+  "roomRateId": "00032",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:48:39.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364e026c1ddba9abe99607f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 310,
+  "rate": 39500,
+  "roomRateId": "00033",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:49:26.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e06bc1ddba9abe99612f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 311,
+  "rate": 45500,
+  "roomRateId": "00034",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:50:35.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e0c5c1ddba9abe9961e3"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 312,
+  "rate": 45500,
+  "roomRateId": "00035",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:52:05.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e12bc1ddba9abe99629a"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 313,
+  "rate": 45500,
+  "roomRateId": "00036",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:53:47.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e1bbc1ddba9abe996357"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 314,
+  "rate": 39500,
+  "roomRateId": "00037",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:56:11.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T10:42:02.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "A/C fault"
+},
+{
+  "_id": {
+    "$oid": "6364e21cc1ddba9abe996416"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb45c1ddba9abe994eb8"
+  },
+  "roomNumber": 315,
+  "rate": 76500,
+  "roomRateId": "00038",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:57:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e253c1ddba9abe9964da"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 316,
+  "rate": 45500,
+  "roomRateId": "00039",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T09:58:43.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e333c1ddba9abe99673a"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 318,
+  "rate": 45500,
+  "roomRateId": "00041",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:02:27.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e39ec1ddba9abe996811"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 319,
+  "rate": 51000,
+  "roomRateId": "00042",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:04:14.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364e3ddc1ddba9abe9968ef"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 320,
+  "rate": 45500,
+  "roomRateId": "00043",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:05:17.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e544c1ddba9abe9969c9"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 321,
+  "rate": 45500,
+  "roomRateId": "00044",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:11:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "Electrical faults"
+},
+{
+  "_id": {
+    "$oid": "6364e586c1ddba9abe996aa5"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 322,
+  "rate": 45500,
+  "roomRateId": "00045",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:12:22.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364e618c1ddba9abe996b85"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 323,
+  "rate": 45500,
+  "roomRateId": "00046",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:14:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-24T20:57:24.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e660c1ddba9abe996c69"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 324,
+  "rate": 45500,
+  "roomRateId": "00047",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:16:00.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e68cc1ddba9abe996d50"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Out-of-Order",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 325,
+  "rate": 45500,
+  "roomRateId": "00048",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:16:44.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-11-24T09:24:32.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364e85cc1ddba9abe996e3f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5a1c1ddba9abe995115"
+  },
+  "roomNumber": 401,
+  "rate": 161000,
+  "roomRateId": "00049",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:24:28.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364e87cc1ddba9abe996f2e"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5a1c1ddba9abe995115"
+  },
+  "roomNumber": 402,
+  "rate": 161000,
+  "roomRateId": "00050",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:25:00.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364e8d0c1ddba9abe997022"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Out-of-order",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 403,
+  "rate": 51000,
+  "roomRateId": "00051",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:26:24.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T18:18:07.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364ec57c1ddba9abe997120"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Out-of-order",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 404,
+  "rate": 51000,
+  "roomRateId": "00052",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:41:27.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T18:16:43.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364ef69c1ddba9abe997222"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 405,
+  "rate": 45500,
+  "roomRateId": "00053",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:54:33.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364ef8bc1ddba9abe997321"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 406,
+  "rate": 45500,
+  "roomRateId": "00054",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:55:07.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364efc2c1ddba9abe997425"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 407,
+  "rate": 45500,
+  "roomRateId": "00055",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:56:02.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364efe6c1ddba9abe99752c"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 408,
+  "rate": 39500,
+  "roomRateId": "00056",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:56:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364f070c1ddba9abe997638"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Blocked",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 409,
+  "rate": 45500,
+  "roomRateId": "00057",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T10:58:56.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T08:56:57.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T00:00:00.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6364f0d7c1ddba9abe997748"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 410,
+  "rate": 45500,
+  "roomRateId": "00058",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T11:00:39.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364fda4c1ddba9abe997876"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 411,
+  "rate": 45500,
+  "roomRateId": "00059",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T11:55:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "A/C fault"
+},
+{
+  "_id": {
+    "$oid": "6364fdc4c1ddba9abe99798d"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363ea24c1ddba9abe994d84"
+  },
+  "roomNumber": 412,
+  "rate": 39500,
+  "roomRateId": "00060",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T11:55:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-11T15:45:16.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364fe36c1ddba9abe997bc8"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 414,
+  "rate": 45500,
+  "roomRateId": "00062",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T11:57:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T10:43:12.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6364ffa0c1ddba9abe997f3d"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 416,
+  "rate": 45500,
+  "roomRateId": "00064",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:03:44.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650000c1ddba9abe998069"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 417,
+  "rate": 45500,
+  "roomRateId": "00065",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:05:20.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-25T20:53:15.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6365001fc1ddba9abe998198"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 418,
+  "rate": 51000,
+  "roomRateId": "00066",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:05:51.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-10T10:24:57.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T00:00:00.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650050c1ddba9abe9982cc"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 419,
+  "rate": 51000,
+  "roomRateId": "00067",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:06:40.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T07:36:24.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-25T19:27:11.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636500a5c1ddba9abe998404"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6364dbd2c1ddba9abe9955f8"
+  },
+  "roomNumber": 420,
+  "rate": 106000,
+  "roomRateId": "00068",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:08:05.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-15T23:09:48.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636500fec1ddba9abe99853f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6364dbd2c1ddba9abe9955f8"
+  },
+  "roomNumber": 421,
+  "rate": 106000,
+  "roomRateId": "00069",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:09:34.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-15T23:09:48.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650184c1ddba9abe99867f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 501,
+  "rate": 44000,
+  "roomRateId": "00070",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:11:48.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-09-29T13:41:22.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-18T15:06:07.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636501a4c1ddba9abe9987c3"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 502,
+  "rate": 44000,
+  "roomRateId": "00071",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:12:20.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-06-03T18:37:27.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:43:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636501f3c1ddba9abe99890a"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 503,
+  "rate": 44000,
+  "roomRateId": "00072",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:13:39.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-05-15T05:12:25.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:43:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650212c1ddba9abe998a56"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 504,
+  "rate": 39500,
+  "roomRateId": "00073",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:14:10.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-10-07T12:19:59.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:43:47.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650234c1ddba9abe998ba5"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 505,
+  "rate": 44000,
+  "roomRateId": "00074",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:14:44.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-05-15T05:12:26.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:43:47.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650262c1ddba9abe998cf8"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 506,
+  "rate": 44000,
+  "roomRateId": "00075",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:15:30.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-07T08:38:26.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636502a4c1ddba9abe998e50"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 507,
+  "rate": 39500,
+  "roomRateId": "00076",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:16:36.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T10:23:26.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650370c1ddba9abe999109"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 508,
+  "rate": 39500,
+  "roomRateId": "00077",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:20:00.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "636503b7c1ddba9abe999268"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 510,
+  "rate": 39500,
+  "roomRateId": "00078",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:21:11.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-10T07:31:47.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636503e1c1ddba9abe9993cb"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 509,
+  "rate": 39500,
+  "roomRateId": "00079",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:21:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650410c1ddba9abe999533"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 511,
+  "rate": 39500,
+  "roomRateId": "00080",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:22:40.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-10T07:33:03.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650444c1ddba9abe99969e"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5cdc1ddba9abe99512f"
+  },
+  "roomNumber": 512,
+  "rate": 39500,
+  "roomRateId": "00081",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:23:32.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:43:46.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650495c1ddba9abe99980e"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 602,
+  "rate": 111000,
+  "roomRateId": "00082",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:24:53.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "636504d0c1ddba9abe999981"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 604,
+  "rate": 111000,
+  "roomRateId": "00083",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:25:52.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650523c1ddba9abe999af9"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 606,
+  "rate": 111000,
+  "roomRateId": "00084",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:27:15.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "6365055bc1ddba9abe999c75"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 608,
+  "rate": 111000,
+  "roomRateId": "00085",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:28:11.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650586c1ddba9abe999df4"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 610,
+  "rate": 111000,
+  "roomRateId": "00086",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:28:54.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-08T14:28:35.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "636505d8c1ddba9abe999f78"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 612,
+  "rate": 111000,
+  "roomRateId": "00087",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:30:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "6365060cc1ddba9abe99a0ff"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Out-of-order",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 614,
+  "rate": 111000,
+  "roomRateId": "00088",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:31:08.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T20:21:59.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650646c1ddba9abe99a28b"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d5edc1ddba9abe995149"
+  },
+  "roomNumber": 616,
+  "rate": 111000,
+  "roomRateId": "00089",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T12:32:06.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T13:31:16.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650d40c1ddba9abe99b32f"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 601,
+  "rate": 166000,
+  "roomRateId": "00090",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:01:52.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-08T04:47:45.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-18T15:06:07.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650d66c1ddba9abe99b4c3"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 603,
+  "rate": 166000,
+  "roomRateId": "00091",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:02:30.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2023-01-18T15:06:07.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650d88c1ddba9abe99b65a"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 605,
+  "rate": 166000,
+  "roomRateId": "00092",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:03:04.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-09T11:42:52.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:05.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "63650daac1ddba9abe99b7f5"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 607,
+  "rate": 166000,
+  "roomRateId": "00093",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:03:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:05.000Z"
+  },
+  "outOfOrderReason": "POP Issues"
+},
+{
+  "_id": {
+    "$oid": "63650dd0c1ddba9abe99b995"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 609,
+  "rate": 166000,
+  "roomRateId": "00094",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:04:16.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:05.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63650e0dc1ddba9abe99bb38"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 611,
+  "rate": 151500,
+  "roomRateId": "00095",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:05:17.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:04.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650e33c1ddba9abe99bcdf"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb79c1ddba9abe99493f"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 613,
+  "rate": 166000,
+  "roomRateId": "00096",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:05:55.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:04.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650e55c1ddba9abe99be8b"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6364d60fc1ddba9abe995164"
+  },
+  "roomNumber": 615,
+  "rate": 166000,
+  "roomRateId": "00097",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:06:29.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-10T21:56:04.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650e76c1ddba9abe99c03a"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": null,
+  "roomFloorId": {
+    "$oid": "6363bbf8c1ddba9abe99499c"
+  },
+  "roomTypeId": {
+    "$oid": "6364d655c1ddba9abe99517e"
+  },
+  "roomNumber": 101,
+  "rate": 241000,
+  "roomRateId": "00098",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:07:02.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "63650e9ac1ddba9abe99c1ed"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbf8c1ddba9abe99499c"
+  },
+  "roomTypeId": {
+    "$oid": "6364d655c1ddba9abe99517e"
+  },
+  "roomNumber": 102,
+  "rate": 241000,
+  "roomRateId": "00099",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:07:38.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-08T12:32:16.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63651519c1ddba9abe99d5f0"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb45c1ddba9abe994eb8"
+  },
+  "roomNumber": 413,
+  "rate": 76500,
+  "roomRateId": "00098",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:35:21.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "63651540c1ddba9abe99d7a4"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbd2c1ddba9abe994985"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb45c1ddba9abe994eb8"
+  },
+  "roomNumber": 415,
+  "rate": 76500,
+  "roomRateId": "00099",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-04T13:36:00.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "outOfOrderReason": "Furnitures"
+},
+{
+  "_id": {
+    "$oid": "6374f7ba7122af6ca8feede2"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 202,
+  "rate": 51000,
+  "roomRateId": "00099",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-16T14:46:18.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T00:00:00.000Z"
+  },
+  "outOfOrderReason": null
+},
+{
+  "_id": {
+    "$oid": "637926a7a801957d3d608c89"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Clean",
+  "occupancyStatus": "Vacant",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bb89c1ddba9abe994956"
+  },
+  "roomTypeId": {
+    "$oid": "6363eb27c1ddba9abe994ea0"
+  },
+  "roomNumber": 211,
+  "rate": 45500,
+  "roomRateId": "00099",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-19T18:55:35.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T09:05:07.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-26T04:57:46.000Z"
+  },
+  "outOfOrderReason": "NONE"
+},
+{
+  "_id": {
+    "$oid": "637b853e34d060dc7f3f86c1"
+  },
+  "doubleRate": null,
+  "breakfast": 8500,
+  "totalCharge": 0,
+  "houseKeepingStatus": "Dirty",
+  "occupancyStatus": "Occupied",
+  "blockStatus": "Opened",
+  "roomFloorId": {
+    "$oid": "6363bbadc1ddba9abe99496d"
+  },
+  "roomTypeId": {
+    "$oid": "6364dbd2c1ddba9abe9955f8"
+  },
+  "roomNumber": 317,
+  "rate": 106000,
+  "roomRateId": "00099",
+  "createdBy": "Bon Hotel Transtell",
+  "dateCreated": {
+    "$date": "2022-11-21T14:03:42.000Z"
+  },
+  "dateUpdated": {
+    "$date": "2024-12-12T05:17:40.000Z"
+  },
+  "__v": 0,
+  "blockDate": {
+    "$date": "2022-12-17T22:15:56.000Z"
+  },
+  "outOfOrderReason": null
+}]

@@ -1,0 +1,1258 @@
+[{
+  "_id": {
+    "$oid": "6474bf8978fb94cd3457bd0a"
+  },
+  "rooms": [
+    {
+      "$oid": "6474c76a78fb94cd3457cb18"
+    },
+    {
+      "$oid": "6474c6ae78fb94cd3457c9da"
+    },
+    {
+      "$oid": "6474c50778fb94cd3457c58c"
+    },
+    {
+      "$oid": "6474c53178fb94cd3457c602"
+    }
+  ],
+  "roomTypeName": "CLASSIC ROOM",
+  "roomTypeRate": 26000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00001",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-01-03T15:59:36.000Z"
+  },
+  "dateCreated": {
+    "$date": "2023-05-29T16:06:49.000Z"
+  },
+  "__v": 2,
+  "breakfast": 4000,
+  "stayDates": [
+    {
+      "665d111e8bc9061615c4f76f": [
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024"
+      ]
+    },
+    {
+      "665d15c98bc9061615c4fedf": [
+        "Sun Jun 02 2024",
+        "Mon Jun 03 2024"
+      ]
+    },
+    {
+      "66686c008e98ace19fcac4d5": [
+        "Wed Jul 03 2024",
+        "Thu Jul 04 2024"
+      ]
+    },
+    {
+      "6697d3ba02379ea00960ca94": [
+        "Thu Jul 18 2024"
+      ]
+    },
+    {
+      "66f407f2db3cb10632d9da52": [
+        "Thu Sep 26 2024",
+        "Fri Sep 27 2024",
+        "Sat Sep 28 2024",
+        "Sun Sep 29 2024",
+        "Mon Sep 30 2024"
+      ]
+    },
+    {
+      "66f57339db3cb10632db72b5": [
+        "Fri Sep 27 2024"
+      ]
+    },
+    {
+      "671119f6af7a942ef66dd5f6": [
+        "Fri Oct 18 2024",
+        "Sat Oct 19 2024",
+        "Sun Oct 20 2024",
+        "Mon Oct 21 2024",
+        "Tue Oct 22 2024",
+        "Wed Oct 23 2024",
+        "Thu Oct 24 2024",
+        "Fri Oct 25 2024"
+      ]
+    },
+    {
+      "6717c401af7a942ef679456f": [
+        "Wed Oct 23 2024"
+      ]
+    },
+    {
+      "67269525af7a942ef69224b5": [
+        "Sun Nov 03 2024"
+      ]
+    },
+    {
+      "6739036e77779786af44593c": [
+        "Sat Nov 16 2024"
+      ]
+    },
+    {
+      "673bb36c77779786af497209": [
+        "Tue Nov 19 2024"
+      ]
+    },
+    {
+      "6757b82938357daa8ffd8f58": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "67588ace38357daa8fff3218": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6474bfe578fb94cd3457bd27"
+  },
+  "rooms": [
+    {
+      "$oid": "6474c3c878fb94cd3457c26e"
+    },
+    {
+      "$oid": "6474c3e978fb94cd3457c2a6"
+    },
+    {
+      "$oid": "6474c3ff78fb94cd3457c2de"
+    },
+    {
+      "$oid": "6474c41478fb94cd3457c31a"
+    },
+    {
+      "$oid": "6474c42878fb94cd3457c352"
+    },
+    {
+      "$oid": "6474c43d78fb94cd3457c38a"
+    },
+    {
+      "$oid": "6474c45078fb94cd3457c3c2"
+    },
+    {
+      "$oid": "6474c46778fb94cd3457c3fa"
+    },
+    {
+      "$oid": "6474c47a78fb94cd3457c432"
+    },
+    {
+      "$oid": "6474c48e78fb94cd3457c46e"
+    },
+    {
+      "$oid": "6474c4a278fb94cd3457c4a6"
+    },
+    {
+      "$oid": "6474c4c578fb94cd3457c4de"
+    },
+    {
+      "$oid": "6474c4d978fb94cd3457c516"
+    },
+    {
+      "$oid": "6474c54a78fb94cd3457c63e"
+    },
+    {
+      "$oid": "6474c55e78fb94cd3457c67a"
+    },
+    {
+      "$oid": "6474c57278fb94cd3457c6ba"
+    },
+    {
+      "$oid": "6474c58778fb94cd3457c6f6"
+    },
+    {
+      "$oid": "6474c59a78fb94cd3457c732"
+    },
+    {
+      "$oid": "6474c5af78fb94cd3457c76e"
+    },
+    {
+      "$oid": "6474c63878fb94cd3457c8de"
+    },
+    {
+      "$oid": "6474c67d78fb94cd3457c95e"
+    },
+    {
+      "$oid": "6474c69478fb94cd3457c99c"
+    },
+    {
+      "$oid": "6474c70178fb94cd3457ca5a"
+    },
+    {
+      "$oid": "6474c7b478fb94cd3457cb94"
+    },
+    {
+      "$oid": "6474c7cc78fb94cd3457cbd6"
+    },
+    {
+      "$oid": "6474c80778fb94cd3457cc52"
+    },
+    {
+      "$oid": "6474c73b78fb94cd3457cad6"
+    },
+    {
+      "$oid": "6474c78178fb94cd3457cb56"
+    },
+    {
+      "$oid": "6474c5dc78fb94cd3457c7e6"
+    }
+  ],
+  "roomTypeName": "SUPERIOR ROOM",
+  "roomTypeRate": 36000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00002",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-01-03T15:59:36.000Z"
+  },
+  "dateCreated": {
+    "$date": "2023-05-29T16:08:21.000Z"
+  },
+  "__v": 0,
+  "breakfast": 4000,
+  "stayDates": [
+    {
+      "661fdad9be23c7c40e204361": [
+        "Fri Apr 19 2024",
+        "Sat Apr 20 2024"
+      ]
+    },
+    {
+      "665d099c8bc9061615c4c5ee": [
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024"
+      ]
+    },
+    {
+      "665d0efd8bc9061615c4ddd6": [
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024"
+      ]
+    },
+    {
+      "6666fb4c8e98ace19fc8f500": [
+        "Thu Jun 20 2024"
+      ]
+    },
+    {
+      "666dfa8e8e98ace19fd1f68c": [
+        "Sat Jun 15 2024",
+        "Sun Jun 16 2024",
+        "Mon Jun 17 2024"
+      ]
+    },
+    {
+      "6679c97a9c2d91f04cfec9e8": [
+        "Mon Jun 24 2024"
+      ]
+    },
+    {
+      "668573d9e37e37f784f76c4e": [
+        "Wed Jul 03 2024",
+        "Thu Jul 04 2024",
+        "Fri Jul 05 2024",
+        "Sat Jul 06 2024"
+      ]
+    },
+    {
+      "6689a47de37e37f784fd8933": [
+        "Sat Jul 06 2024"
+      ]
+    },
+    {
+      "6696809f02379ea0095e197e": [
+        "Tue Jul 16 2024",
+        "Wed Jul 17 2024"
+      ]
+    },
+    {
+      "6697d7a902379ea00960d3a5": [
+        "Thu Jul 18 2024"
+      ]
+    },
+    {
+      "66acdb9602379ea0098292ed": [
+        "Fri Aug 02 2024"
+      ]
+    },
+    {
+      "66b23a3c02379ea009890b57": [
+        "Wed Aug 07 2024"
+      ]
+    },
+    {
+      "66b23e8302379ea00989133f": [
+        "Tue Aug 06 2024",
+        "Wed Aug 07 2024",
+        "Thu Aug 08 2024"
+      ]
+    },
+    {
+      "66b51b9d02379ea0098cb3ee": [
+        "Thu Aug 08 2024"
+      ]
+    },
+    {
+      "66b61bea02379ea0098dd678": [
+        "Fri Aug 09 2024",
+        "Sat Aug 10 2024",
+        "Sun Aug 11 2024"
+      ]
+    },
+    {
+      "66b8afec02379ea009913b68": [
+        "Sun Aug 11 2024",
+        "Mon Aug 12 2024",
+        "Tue Aug 13 2024",
+        "Wed Aug 14 2024"
+      ]
+    },
+    {
+      "66b8b26402379ea009913dbb": [
+        "Sun Aug 11 2024",
+        "Mon Aug 12 2024",
+        "Tue Aug 13 2024",
+        "Wed Aug 14 2024"
+      ]
+    },
+    {
+      "66b99c3d02379ea009927767": [
+        "Mon Aug 12 2024"
+      ]
+    },
+    {
+      "66ba052e02379ea0099326fa": [
+        "Wed Aug 14 2024",
+        "Thu Aug 15 2024"
+      ]
+    },
+    {
+      "66bf9dcf02379ea0099d59f1": [
+        "Fri Aug 16 2024"
+      ]
+    },
+    {
+      "66c4bc0302379ea009a4ce40": [
+        "Tue Aug 20 2024",
+        "Wed Aug 21 2024"
+      ]
+    },
+    {
+      "66c4fc4f02379ea009a58105": [
+        "Tue Aug 20 2024",
+        "Wed Aug 21 2024"
+      ]
+    },
+    {
+      "66c7876002379ea009aa2ad9": [
+        "Thu Aug 22 2024"
+      ]
+    },
+    {
+      "66cc8a9802379ea009b3e4af": [
+        "Mon Aug 26 2024"
+      ]
+    },
+    {
+      "66e88a95db3cb10632cb7bfe": [
+        "Tue Sep 17 2024"
+      ]
+    },
+    {
+      "670be54087d0a8f5d9212534": [
+        "Mon Oct 14 2024",
+        "Tue Oct 15 2024"
+      ]
+    },
+    {
+      "670be69a87d0a8f5d921270e": [
+        "Mon Oct 14 2024",
+        "Tue Oct 15 2024"
+      ]
+    },
+    {
+      "67151218af7a942ef67435c6": [
+        "Mon Oct 21 2024"
+      ]
+    },
+    {
+      "6717ff99af7a942ef679a98c": [
+        "Wed Oct 23 2024"
+      ]
+    },
+    {
+      "671b23ebaf7a942ef67ea347": [
+        "Fri Oct 25 2024"
+      ]
+    },
+    {
+      "671e3df1af7a942ef6842b19": [
+        "Sun Oct 27 2024",
+        "Mon Oct 28 2024"
+      ]
+    },
+    {
+      "67166be4af7a942ef676dea9": [
+        "Sun Oct 27 2024"
+      ]
+    },
+    {
+      "6720fa4baf7a942ef688afa7": [
+        "Wed Oct 30 2024",
+        "Thu Oct 31 2024"
+      ]
+    },
+    {
+      "66bb852802379ea00995f572": [
+        "Fri Nov 29 2024"
+      ]
+    },
+    {
+      "6724036eaf7a942ef68d927f": [
+        "Thu Oct 31 2024",
+        "Fri Nov 01 2024",
+        "Sat Nov 02 2024",
+        "Sun Nov 03 2024"
+      ]
+    },
+    {
+      "67290bd1af7a942ef69621d2": [
+        "Tue Nov 05 2024"
+      ]
+    },
+    {
+      "672b84ddaf7a942ef69ac957": [
+        "Wed Nov 06 2024",
+        "Thu Nov 07 2024"
+      ]
+    },
+    {
+      "672bca09af7a942ef69b33b8": [
+        "Thu Nov 21 2024",
+        "Fri Nov 22 2024",
+        "Sat Nov 23 2024",
+        "Sun Nov 24 2024"
+      ]
+    },
+    {
+      "67320808af7a942ef6a4d152": [
+        "Tue Nov 12 2024",
+        "Wed Nov 13 2024",
+        "Thu Nov 14 2024"
+      ]
+    },
+    {
+      "6734f603af7a942ef6a99801": [
+        "Wed Nov 13 2024",
+        "Thu Nov 14 2024",
+        "Fri Nov 15 2024"
+      ]
+    },
+    {
+      "6734f751af7a942ef6a99a15": [
+        "Wed Nov 13 2024",
+        "Thu Nov 14 2024",
+        "Fri Nov 15 2024"
+      ]
+    },
+    {
+      "673510aa77779786af3d42c9": [
+        "Wed Nov 13 2024",
+        "Thu Nov 14 2024",
+        "Fri Nov 15 2024"
+      ]
+    },
+    {
+      "673b608d77779786af48d204": [
+        "Thu Nov 21 2024",
+        "Fri Nov 22 2024",
+        "Sat Nov 23 2024"
+      ]
+    },
+    {
+      "673ba8ea77779786af495ba3": [
+        "Tue Nov 19 2024"
+      ]
+    },
+    {
+      "673df06f10bf6886f2a0b8a5": [
+        "Thu Nov 21 2024"
+      ]
+    },
+    {
+      "673e032e10bf6886f2a0e5cf": [
+        "Thu Nov 21 2024"
+      ]
+    },
+    {
+      "6743a07a10bf6886f2aadea2": [
+        "Mon Nov 25 2024"
+      ]
+    },
+    {
+      "6743ada010bf6886f2aafd5e": [
+        "Wed Nov 27 2024",
+        "Thu Nov 28 2024"
+      ]
+    },
+    {
+      "6748c31210bf6886f2b3890f": [
+        "Fri Nov 29 2024"
+      ]
+    },
+    {
+      "66bb852802379ea00995f572": [
+        "Fri Dec 20 2024"
+      ]
+    },
+    {
+      "66cc845a02379ea009b3ceb8": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024"
+      ]
+    },
+    {
+      "674c238610bf6886f2b88bb4": [
+        "Sun Dec 01 2024",
+        "Mon Dec 02 2024",
+        "Tue Dec 03 2024",
+        "Wed Dec 04 2024",
+        "Thu Dec 05 2024",
+        "Fri Dec 06 2024",
+        "Sat Dec 07 2024",
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "674c56f310bf6886f2b8e4bc": [
+        "Sun Dec 01 2024",
+        "Mon Dec 02 2024",
+        "Tue Dec 03 2024"
+      ]
+    },
+    {
+      "674cdfc710bf6886f2b9b0f3": [
+        "Fri Dec 20 2024",
+        "Sat Dec 21 2024"
+      ]
+    },
+    {
+      "6753a54338357daa8ff82d20": [
+        "Fri Dec 06 2024",
+        "Sat Dec 07 2024"
+      ]
+    },
+    {
+      "6755902838357daa8ffae0da": [
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6755f5f238357daa8ffb56b5": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6755f77b38357daa8ffb581a": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6755f81f38357daa8ffb5a09": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6755f8a638357daa8ffb5a73": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6756b61338357daa8ffc73a6": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024",
+        "Sat Dec 14 2024",
+        "Sun Dec 15 2024",
+        "Mon Dec 16 2024",
+        "Tue Dec 17 2024"
+      ]
+    },
+    {
+      "6757b34038357daa8ffd824f": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b3d038357daa8ffd828c": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b48738357daa8ffd850e": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b6ef38357daa8ffd8b78": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b79938357daa8ffd8db5": [
+        "Tue Dec 10 2024"
+      ]
+    },
+    {
+      "6757bcda38357daa8ffd9a57": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "67583c0738357daa8ffea075": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6758442a38357daa8ffeae2f": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6758892f38357daa8fff2f68": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "67266da5af7a942ef691f2f5": [
+        "Wed Dec 25 2024",
+        "Thu Dec 26 2024",
+        "Fri Dec 27 2024",
+        "Sat Dec 28 2024",
+        "Sun Dec 29 2024",
+        "Mon Dec 30 2024"
+      ]
+    },
+    {
+      "66cc845a02379ea009b3ceb8": [
+        "Thu Dec 26 2024",
+        "Fri Dec 27 2024",
+        "Sat Dec 28 2024",
+        "Sun Dec 29 2024",
+        "Mon Dec 30 2024"
+      ]
+    },
+    {
+      "67598fd338357daa8f00f229": [
+        "Sat Dec 14 2024"
+      ]
+    },
+    {
+      "6759a29038357daa8f010a90": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "675a255f38357daa8f01aea6": [
+        "Sat Dec 14 2024",
+        "Mon Dec 16 2024",
+        "Wed Dec 18 2024"
+      ]
+    },
+    {
+      "675ad98e38357daa8f02a1ce": [
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "675b02c338357daa8f02cf60": [
+        "Fri Dec 13 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6474c03078fb94cd3457bd40"
+  },
+  "rooms": [
+    {
+      "$oid": "6474c51c78fb94cd3457c5c6"
+    },
+    {
+      "$oid": "6474c5f078fb94cd3457c826"
+    },
+    {
+      "$oid": "6474c60f78fb94cd3457c862"
+    },
+    {
+      "$oid": "6474c62378fb94cd3457c8a0"
+    },
+    {
+      "$oid": "6474c64e78fb94cd3457c91c"
+    },
+    {
+      "$oid": "6474c7ea78fb94cd3457cc14"
+    },
+    {
+      "$oid": "6474c6e978fb94cd3457ca1c"
+    },
+    {
+      "$oid": "6474c4f178fb94cd3457c54e"
+    },
+    {
+      "$oid": "659582b271fb3194c5d743e7"
+    },
+    {
+      "$oid": "6474c5c778fb94cd3457c7aa"
+    }
+  ],
+  "roomTypeName": "DELUX ROOM",
+  "roomTypeRate": 51000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00003",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-01-03T15:58:36.000Z"
+  },
+  "dateCreated": {
+    "$date": "2023-05-29T16:09:36.000Z"
+  },
+  "__v": 0,
+  "breakfast": 4000,
+  "stayDates": [
+    {
+      "65cd2f87701c497ab65f2cc7": [
+        "Wed Feb 14 2024"
+      ]
+    },
+    {
+      "65cd2f87701c497ab65f2cc7": [
+        "Wed Feb 14 2024"
+      ]
+    },
+    {
+      "65cd2f87701c497ab65f2cc7": [
+        "Wed Feb 14 2024"
+      ]
+    },
+    {
+      "65cd2f87701c497ab65f2cc7": [
+        "Wed Feb 14 2024"
+      ]
+    },
+    {
+      "65df8058e0c4406b1dd62ca9": [
+        "Wed Feb 28 2024"
+      ]
+    },
+    {
+      "661225cbc41698f1b935ada6": [
+        "Sat Apr 06 2024"
+      ]
+    },
+    {
+      "6618e47547e35e6782a319ae": [
+        "Fri Apr 12 2024",
+        "Sat Apr 13 2024"
+      ]
+    },
+    {
+      "665d10478bc9061615c4e8c4": [
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024",
+        "Sat Jun 01 2024"
+      ]
+    },
+    {
+      "668fd67aadb50665a7f98afe": [
+        "Thu Jul 11 2024",
+        "Fri Jul 12 2024",
+        "Sat Jul 13 2024"
+      ]
+    },
+    {
+      "66b8acba02379ea0099133e4": [
+        "Sun Aug 11 2024",
+        "Mon Aug 12 2024",
+        "Tue Aug 13 2024",
+        "Wed Aug 14 2024"
+      ]
+    },
+    {
+      "66b8ad5702379ea0099134b6": [
+        "Sun Aug 11 2024",
+        "Mon Aug 12 2024",
+        "Tue Aug 13 2024",
+        "Wed Aug 14 2024"
+      ]
+    },
+    {
+      "66b8ae3d02379ea00991396d": [
+        "Sun Aug 11 2024",
+        "Mon Aug 12 2024",
+        "Tue Aug 13 2024",
+        "Wed Aug 14 2024"
+      ]
+    },
+    {
+      "66c3642602379ea009a33646": [
+        "Tue Aug 20 2024"
+      ]
+    },
+    {
+      "66d8b79b02379ea009c592ec": [
+        "Wed Sep 04 2024",
+        "Thu Sep 05 2024"
+      ]
+    },
+    {
+      "66e4a25ddb3cb10632c52487": [
+        "Sat Sep 14 2024"
+      ]
+    },
+    {
+      "66e6dbcfdb3cb10632c8faac": [
+        "Sun Sep 15 2024",
+        "Mon Sep 16 2024",
+        "Tue Sep 17 2024"
+      ]
+    },
+    {
+      "66f6bed1db3cb10632dcfea4": [
+        "Sat Sep 28 2024"
+      ]
+    },
+    {
+      "6707e28caff3626a0b609471": [
+        "Fri Oct 11 2024",
+        "Sat Oct 12 2024"
+      ]
+    },
+    {
+      "6707e30faff3626a0b609566": [
+        "Fri Oct 11 2024",
+        "Sat Oct 12 2024"
+      ]
+    },
+    {
+      "670be62587d0a8f5d9212687": [
+        "Mon Oct 14 2024"
+      ]
+    },
+    {
+      "671812e1af7a942ef679cf10": [
+        "Wed Oct 23 2024"
+      ]
+    },
+    {
+      "672f6d8aaf7a942ef6a103df": [
+        "Sat Nov 09 2024",
+        "Sun Nov 10 2024",
+        "Mon Nov 11 2024"
+      ]
+    },
+    {
+      "6734f9b4af7a942ef6a9a202": [
+        "Wed Nov 13 2024",
+        "Thu Nov 14 2024",
+        "Fri Nov 15 2024"
+      ]
+    },
+    {
+      "673500d877779786af3d2382": [
+        "Wed Nov 13 2024"
+      ]
+    },
+    {
+      "673ce6eb77779786af4b81c1": [
+        "Wed Nov 20 2024",
+        "Thu Nov 21 2024",
+        "Fri Nov 22 2024",
+        "Sat Nov 23 2024",
+        "Sun Nov 24 2024",
+        "Mon Nov 25 2024",
+        "Tue Nov 26 2024",
+        "Wed Nov 27 2024",
+        "Thu Nov 28 2024",
+        "Fri Nov 29 2024",
+        "Sat Nov 30 2024"
+      ]
+    },
+    {
+      "673e22d810bf6886f2a12ae1": [
+        "Wed Nov 20 2024",
+        "Thu Nov 21 2024"
+      ]
+    },
+    {
+      "67518b1338357daa8ff49261": [
+        "Thu Dec 05 2024"
+      ]
+    },
+    {
+      "6756058838357daa8ffb7037": [
+        "Mon Dec 09 2024"
+      ]
+    },
+    {
+      "675607c538357daa8ffb77be": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024"
+      ]
+    },
+    {
+      "67560a7f38357daa8ffb7fd8": [
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b54a38357daa8ffd870f": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757b65138357daa8ffd892d": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6757bc4038357daa8ffd9791": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "6758667e38357daa8fff0815": [
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "675ad9ed38357daa8f02a268": [
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "675b260038357daa8f03061c": [
+        "Thu Dec 12 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6474c08978fb94cd3457bd79"
+  },
+  "rooms": [
+    {
+      "$oid": "6474c22178fb94cd3457beec"
+    },
+    {
+      "$oid": "6474c24e78fb94cd3457bf56"
+    },
+    {
+      "$oid": "6474c26e78fb94cd3457bf8a"
+    },
+    {
+      "$oid": "6474c28578fb94cd3457bfbe"
+    },
+    {
+      "$oid": "6474c29f78fb94cd3457bff2"
+    },
+    {
+      "$oid": "6474c2b878fb94cd3457c02a"
+    },
+    {
+      "$oid": "6474c2cc78fb94cd3457c05e"
+    },
+    {
+      "$oid": "6474c2e278fb94cd3457c092"
+    },
+    {
+      "$oid": "6474c2fd78fb94cd3457c0c6"
+    },
+    {
+      "$oid": "6474c33578fb94cd3457c132"
+    },
+    {
+      "$oid": "6474c34978fb94cd3457c166"
+    },
+    {
+      "$oid": "6474c36378fb94cd3457c19a"
+    },
+    {
+      "$oid": "6474c37978fb94cd3457c1ce"
+    },
+    {
+      "$oid": "6474c39278fb94cd3457c206"
+    },
+    {
+      "$oid": "6474c3a578fb94cd3457c23a"
+    },
+    {
+      "$oid": "6474c71a78fb94cd3457ca98"
+    }
+  ],
+  "roomTypeName": "EXECUTIVE SUITE",
+  "roomTypeRate": 86000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00004",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2023-08-01T16:44:12.000Z"
+  },
+  "dateCreated": {
+    "$date": "2023-05-29T16:11:05.000Z"
+  },
+  "__v": 0,
+  "breakfast": 4000,
+  "stayDates": [
+    {
+      "6616c675baa5e0f77a4696de": [
+        "Wed Apr 10 2024"
+      ]
+    },
+    {
+      "671abebaaf7a942ef67e0a4e": [
+        "Fri Oct 25 2024"
+      ]
+    },
+    {
+      "6723a238af7a942ef68cdf67": [
+        "Fri Nov 01 2024"
+      ]
+    },
+    {
+      "6725bf81af7a942ef6906503": [
+        "Sat Nov 02 2024"
+      ]
+    },
+    {
+      "67292051af7a942ef6964020": [
+        "Tue Nov 05 2024"
+      ]
+    },
+    {
+      "672236ccaf7a942ef68ac485": [
+        "Thu Nov 07 2024",
+        "Fri Nov 08 2024"
+      ]
+    },
+    {
+      "672e9f4eaf7a942ef69f9cdc": [
+        "Sun Nov 10 2024"
+      ]
+    },
+    {
+      "673f26e010bf6886f2a2a913": [
+        "Fri Nov 22 2024",
+        "Sat Nov 23 2024",
+        "Sun Nov 24 2024",
+        "Mon Nov 25 2024",
+        "Tue Nov 26 2024",
+        "Wed Nov 27 2024",
+        "Thu Nov 28 2024",
+        "Fri Nov 29 2024",
+        "Sat Nov 30 2024",
+        "Sun Dec 01 2024",
+        "Mon Dec 02 2024",
+        "Tue Dec 03 2024",
+        "Wed Dec 04 2024",
+        "Thu Dec 05 2024",
+        "Fri Dec 06 2024",
+        "Sat Dec 07 2024",
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "674c225810bf6886f2b88555": [
+        "Sun Dec 01 2024",
+        "Mon Dec 02 2024",
+        "Tue Dec 03 2024",
+        "Wed Dec 04 2024",
+        "Thu Dec 05 2024",
+        "Fri Dec 06 2024",
+        "Sat Dec 07 2024",
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "67507129228b76e51f177083": [
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024"
+      ]
+    },
+    {
+      "675463f338357daa8ff95508": [
+        "Fri Dec 13 2024",
+        "Sat Dec 14 2024"
+      ]
+    },
+    {
+      "67545f5e38357daa8ff945d9": [
+        "Sat Dec 07 2024",
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    },
+    {
+      "675864bf38357daa8fff007f": [
+        "Thu Dec 12 2024"
+      ]
+    },
+    {
+      "675af94c38357daa8f02c340": [
+        "Fri Dec 13 2024"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6474c0ba78fb94cd3457bd92"
+  },
+  "rooms": [
+    {
+      "$oid": "6474c23978fb94cd3457bf22"
+    },
+    {
+      "$oid": "6474c31778fb94cd3457c0fa"
+    }
+  ],
+  "roomTypeName": "DIPLOMATIC SUITE",
+  "roomTypeRate": 116000,
+  "roomTypeDoubleRate": null,
+  "requiredDepositAtCheckIn": 0,
+  "roomTypeId": "00005",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2023-07-23T23:54:06.000Z"
+  },
+  "dateCreated": {
+    "$date": "2023-05-29T16:11:54.000Z"
+  },
+  "__v": 0,
+  "breakfast": 4000,
+  "stayDates": [
+    {
+      "674c286e10bf6886f2b897c1": [
+        "Sun Dec 01 2024",
+        "Mon Dec 02 2024",
+        "Tue Dec 03 2024",
+        "Wed Dec 04 2024",
+        "Thu Dec 05 2024",
+        "Fri Dec 06 2024",
+        "Sat Dec 07 2024",
+        "Sun Dec 08 2024",
+        "Mon Dec 09 2024",
+        "Tue Dec 10 2024",
+        "Wed Dec 11 2024",
+        "Thu Dec 12 2024",
+        "Fri Dec 13 2024"
+      ]
+    }
+  ]
+}]

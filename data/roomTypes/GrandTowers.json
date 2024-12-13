@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "62dfd271e4ea7761efd780aa"
+  },
+  "rooms": [
+    {
+      "$oid": "62dfe6f0e4ea7761efd7836b"
+    },
+    {
+      "$oid": "62dfe703e4ea7761efd783a3"
+    },
+    {
+      "$oid": "62dfe71ee4ea7761efd783de"
+    },
+    {
+      "$oid": "62dfe736e4ea7761efd7841d"
+    },
+    {
+      "$oid": "62dfe780e4ea7761efd784a7"
+    },
+    {
+      "$oid": "62dfe798e4ea7761efd784f2"
+    },
+    {
+      "$oid": "62dfe7b1e4ea7761efd78541"
+    },
+    {
+      "$oid": "62dfe7cee4ea7761efd78594"
+    },
+    {
+      "$oid": "62dfe847e4ea7761efd78708"
+    },
+    {
+      "$oid": "62dfe865e4ea7761efd7876f"
+    },
+    {
+      "$oid": "62dfe97ae4ea7761efd7884a"
+    },
+    {
+      "$oid": "62dfe990e4ea7761efd788bd"
+    },
+    {
+      "$oid": "62dfe9a8e4ea7761efd78934"
+    },
+    {
+      "$oid": "62dfe9bee4ea7761efd789af"
+    },
+    {
+      "$oid": "62dfe9dfe4ea7761efd78a2e"
+    },
+    {
+      "$oid": "672b3c3e7114f030f46bf163"
+    },
+    {
+      "$oid": "672b3c6a7114f030f46bf1f1"
+    },
+    {
+      "$oid": "672b3cb67114f030f46bf240"
+    },
+    {
+      "$oid": "672b3ce77114f030f46bf28f"
+    },
+    {
+      "$oid": "672b41da7114f030f46bf6d8"
+    }
+  ],
+  "roomTypeName": "STANDARD SUITE",
+  "roomTypeRate": 65000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 1,
+  "roomTypeId": "00001",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-01-06T10:15:53.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-07-26T11:39:29.300Z"
+  },
+  "__v": 23,
+  "stayDates": [
+    {
+      "673a3fa72c8bbf43d62f9b97": [
+        "Sun Nov 17 2024"
+      ]
+    }
+  ],
+  "breakfast": 10000
+},
+{
+  "_id": {
+    "$oid": "62dfd29ee4ea7761efd780c4"
+  },
+  "rooms": [
+    {
+      "$oid": "62dfe650e4ea7761efd78309"
+    },
+    {
+      "$oid": "62dfe6d8e4ea7761efd78338"
+    },
+    {
+      "$oid": "62dfe74ce4ea7761efd78460"
+    },
+    {
+      "$oid": "62dfe7ede4ea7761efd785eb"
+    },
+    {
+      "$oid": "62dfe811e4ea7761efd78646"
+    },
+    {
+      "$oid": "672b40197114f030f46bf517"
+    }
+  ],
+  "roomTypeName": "EXECUTIVE SUITE",
+  "roomTypeRate": 75000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 1,
+  "roomTypeId": "00002",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-01-06T10:08:25.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-07-26T11:40:14.239Z"
+  },
+  "__v": 5,
+  "breakfast": 10000,
+  "stayDates": []
+},
+{
+  "_id": {
+    "$oid": "62dfd37ee4ea7761efd780df"
+  },
+  "rooms": [
+    {
+      "$oid": "62dfe832e4ea7761efd786a5"
+    },
+    {
+      "$oid": "62dfe8e4e4ea7761efd787db"
+    }
+  ],
+  "roomTypeName": "DIPLOMATIC SUITE",
+  "roomTypeRate": 95000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 1,
+  "roomTypeId": "00003",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-11-06T09:47:46.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-07-26T11:43:58.257Z"
+  },
+  "__v": 2,
+  "breakfast": 10000,
+  "stayDates": []
+},
+{
+  "_id": {
+    "$oid": "62dfd3a3e4ea7761efd780f9"
+  },
+  "rooms": [
+    {
+      "$oid": "62dfea04e4ea7761efd78ab1"
+    }
+  ],
+  "roomTypeName": "PRESIDENTIAL SUITE",
+  "roomTypeRate": 140000,
+  "roomTypeDoubleRate": 0,
+  "requiredDepositAtCheckIn": 1,
+  "roomTypeId": "00004",
+  "createdBy": "ChannelPro Limited",
+  "dateUpdated": {
+    "$date": "2024-11-06T09:48:25.000Z"
+  },
+  "dateCreated": {
+    "$date": "2022-07-26T11:44:35.190Z"
+  },
+  "__v": 1,
+  "breakfast": 10000
+}]
