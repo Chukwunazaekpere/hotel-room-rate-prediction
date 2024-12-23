@@ -9,6 +9,8 @@
 
 * Feature engineering was implemented, in order to introduce two new features: hotel_location and number_of_star
 
+* The github directory is at: ***https://github.com/Chukwunazaekpere/hotel-room-rate-prediction.git***, the master directory (not main)
+
 ### Instructions
 
 1. Create a virtual environment
@@ -21,10 +23,10 @@
 
 ### Cell Interpretations
 
-* In cell 15 we're doing one-hot endcoding, by replacing string values with integer values.
+* In cell 3 we're doing one-hot endcoding, by replacing string values with integer values.
 
-* in cell 16, we're sharing our processed data into target and features
+* in cell 4, we're sharing our processed data into target and features
 
-* in cell 17, we are splitting our data into training and validation data
+* in cell 5, we are splitting our data into training and validation data
 
-* in cell 18, we are training our model and measurung our model score
+* in cell 6, we are training our model and measurung our model score
