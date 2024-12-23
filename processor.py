@@ -10,6 +10,7 @@ import csv
 file_names = ["Asokoro", "DiplomaticRes", "Parklane", "Ekiti", "Platinum", "TranstellResidence"]
 @omp
 def process_DB_data():
+    required_record = 1000 # no of rows needed from each file
     start_time = time()
     room_type_name_dict = {}
     processed_file_name = f"./data/processed_data.csv" # save proceesed records .csv
@@ -39,7 +40,7 @@ def process_DB_data():
                         logging.info(msg=f"\n\t [{time()}]: Writing {record_count+1} record from {file_name} to processed file")
                         write_processed_file(processed_file_name, data) #write processed data to a csv file
                         record_count+=1
-                        if record_count > 1000: 
+                        if record_count > required_record: 
                             logging.info(msg=f"\n\t [{time()}]: End of writing record from {file_name} to processed file")
                             break
                     except Exception as err:
